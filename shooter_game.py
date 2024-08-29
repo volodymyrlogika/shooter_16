@@ -129,7 +129,7 @@ run = True
 finish = False
 
 start_screen = True
-start_text = font2.render(f"PRESS ANY KEY TO START", True, (255, 255, 255))
+start_text = font2.render(f"Натисніть будь яку клавішу", True, (255, 255, 255))
 restart_text = font2.render(f"PRESS R TO RESTART", True, (255, 255, 255))
 
 
